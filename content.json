@@ -5,11 +5,11 @@
     "price": 12.99,
     "classification": "Stories",
     "pages": [
-{"page_number": 1, "text": "Once upon a time, in the heart of the forest, there stood a majestic oak tree, its branches reaching towards the sky."},
-{"page_number": 2, "text": "Underneath the oak tree, a group of animals gathered every night to share their tales and secrets, forming a bond that would last a lifetime."},
-{"page_number": 3, "text": "These stories, whispered among the leaves and carried by the wind, became known as the Whispers Woods, a testament to the power of friendship and storytelling."},
-{"page_number": 4, "text": "And so, the adventures of the Whispers Woods continue, echoing through the ages for all to hear."},
-],
+      {"page_number": 1, "text": "Once upon a time, in the heart of the forest, there stood a majestic oak tree, its branches reaching towards the sky."},
+      {"page_number": 2, "text": "Underneath the oak tree, a group of animals gathered every night to share their tales and secrets, forming a bond that would last a lifetime."},
+      {"page_number": 3, "text": "These stories, whispered among the leaves and carried by the wind, became known as the Whispers Woods, a testament to the power of friendship and storytelling."},
+      {"page_number": 4, "text": "And so, the adventures of the Whispers Woods continue, echoing through the ages for all to hear."},
+      ],
     "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873"
   },
   {
