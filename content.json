@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "Whispers Woods",
     "author": "F. Scott Fitzgerald",
     "price": 12.99,
@@ -12,6 +13,7 @@
     ]
   },
   {
+    "id": 2,
     "title": "Echoes Among Us",
     "author": "Harper Lee",
     "price": 10.50,
@@ -24,6 +26,7 @@
     ]
   },
   {
+    "id": 3,
     "title": "Moonlit Secrets",
     "author": "George Orwell",
     "price": 9.99,
@@ -36,6 +39,7 @@
     ]
   },
   {
+    "id": 4,
     "title": "Cup of Tea",
     "author": "Jane Austen",
     "price": 8.95,
@@ -48,6 +52,7 @@
     ]
   },
   {
+    "id": 5,
     "title": "Back Time",
     "author": "Salinger",
     "price": 11.25,
@@ -60,6 +65,7 @@
     ]
   },
   {
+    "id": 6,
     "title": "Silverleaf Stone",
     "author": "Rowling",
     "price": 14.99,
@@ -72,6 +78,7 @@
     ]
   },
   {
+    "id": 7,
     "title": "Samurai Way",
     "author": "Takahashi",
     "price": 13.75,
@@ -84,6 +91,7 @@
     ]
   },
   {
+    "id": 8,
     "title": "Era Of Alchemist",
     "author": "Paulo Coelho",
     "price": 11.00,
@@ -96,6 +104,7 @@
     ]
   },
   {
+    "id": 9,
     "title": "The Castle",
     "author": "Eriksson",
     "price": 20.50,
