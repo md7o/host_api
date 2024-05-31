@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Whispers Woods",
+    "title": "Forest Whispers",
     "author": "F. Scott Fitzgerald",
     "price": 12.99,
     "classification": "Stories",
@@ -79,10 +79,10 @@
   },
   {
     "id": 7,
-    "title": "Samurai Way",
+    "title": "Dragon Samurai",
     "author": "Takahashi",
     "price": 13.75,
-    "classification": "Historical",
+    "classification": "Stories",
     "coverbook": "assets/images/DragonSamuraiCover.png",
     "pages": [
       "In feudal Japan, where honor is everything and duty reigns supreme, samurai warriors stand as guardians of tradition and legacy.",
