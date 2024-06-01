@@ -40,11 +40,11 @@
   },
   {
     "id": 4,
-    "title": "Cup of Tea",
+    "title": "Hour of hope",
     "author": "Jane Austen",
     "price": 8.95,
     "classification": "Fiction",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "coverbook": "assets/images/HourOfHope.png",
     "pages": [
       "In the quaint village of Longbourne, where tea flows freely and gossip reigns supreme, lives intertwine in unexpected ways.",
       "Among the rolling hills and charming cottages, secrets are shared over cups of steaming tea, binding friends and foes alike.",
