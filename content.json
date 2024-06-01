@@ -14,11 +14,11 @@
   },
   {
     "id": 2,
-    "title": "Echoes Among Us",
+    "title": "The Last Letter",
     "author": "Harper Lee",
     "price": 10.50,
     "classification": "Stories",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "coverbook": "assets/images/TheLastLetter.png",
     "pages": [
       "In the quiet town of Echoes, where memories linger in every corner, whispers of the past intertwine with the present.",
       "Among the familiar streets, echoes of lost love and forgotten dreams resonate, leaving traces of longing in their wake.",
