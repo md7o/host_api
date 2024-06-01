@@ -53,11 +53,11 @@
   },
   {
     "id": 5,
-    "title": "Back Time",
+    "title": "Great Wall China.png",
     "author": "Salinger",
     "price": 11.25,
-    "classification": "Fiction",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "classification": "Historical",
+    "coverbook": "assets/images/GreatWallOfChina.png",
     "pages": [
       "In the bustling streets of New York City, where time never stands still, lives intersect in unexpected ways.",
       "Among the towering skyscrapers and crowded sidewalks, dreams are born and shattered, lost and found.",
@@ -95,8 +95,8 @@
     "title": "Era Of Alchemist",
     "author": "Paulo Coelho",
     "price": 11.00,
-    "classification": "Historical",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "classification": "Fiction",
+    "coverbook": "assets/images/EraOfAlchemist.png",
     "pages": [
       "In a world where magic and science coexist, alchemists seek to unlock the mysteries of the universe, blending the old with the new.",
       "Among the ancient ruins and forgotten temples, secrets of untold power lie waiting to be discovered, their whispers echoing through the ages.",
