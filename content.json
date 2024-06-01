@@ -27,11 +27,11 @@
   },
   {
     "id": 3,
-    "title": "Moonlit Secrets",
+    "title": "The Trojan War",
     "author": "George Orwell",
     "price": 9.99,
-    "classification": "Stories",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "classification": "Historical",
+    "coverbook": "assets/images/TheTrojanWar.png",
     "pages": [
       "Beneath the soft glow of the moon, secrets stir in the darkness, hidden from prying eyes.",
       "In the stillness of the night, whispers of forbidden desires and clandestine affairs drift through the air, shrouded in mystery.",
