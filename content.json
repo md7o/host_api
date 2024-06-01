@@ -66,11 +66,11 @@
   },
   {
     "id": 6,
-    "title": "Silverleaf Stone",
+    "title": "The Hidden Path",
     "author": "Rowling",
     "price": 14.99,
     "classification": "Fiction",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "coverbook": "assets/images/TheHiddenPath.png",
     "pages": [
       "In the magical realm of Silverleaf, where wizards and witches roam, a stone of great power lies hidden, waiting to be found.",
       "Among the enchanted forests and shimmering lakes, legends of old come to life, weaving tales of bravery and betrayal.",
