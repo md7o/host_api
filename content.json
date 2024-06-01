@@ -105,11 +105,11 @@
   },
   {
     "id": 9,
-    "title": "The Castle",
+    "title": "Sands of Destiny",
     "author": "Eriksson",
     "price": 20.50,
     "classification": "Historical",
-    "coverbook": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/book-cover-design-template-e02ca84eb1a08cbc8c57b399ffc76121_screen.jpg?ts=1709083873",
+    "coverbook": "assets/images/SandsOfDestiny.png",
     "pages": [
       "In the shadow of the ancient castle, where legends of knights and dragons abound, a kingdom teeters on the brink of chaos.",
       "Among the crumbling walls and overgrown courtyards, whispers of treachery and betrayal echo, threatening to tear the realm apart.",
