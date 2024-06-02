@@ -3,117 +3,72 @@
     "id": 1,
     "title": "Forest Whispers",
     "author": "F. Scott Fitzgerald",
-    "price": 12.99,
     "classification": "Stories",
     "coverbook": "assets/images/ForestWhispers.png",
-    "pages": [
-      "In the heart of Whispers Woods, where shadows dance among the trees, secrets lie buried beneath the fallen leaves.",
-      "As twilight falls, whispers of forgotten tales echo through the dense foliage, captivating those who dare to listen.",
-      "Amidst the eerie silence, a lone figure wanders, seeking solace in the haunting beauty of nature's embrace."
-    ]
+    "pages": "In the heart of Whispers Woods, where shadows dance among the trees, secrets lie buried beneath the fallen leaves. As twilight falls, whispers of forgotten tales echo through the dense foliage, captivating those who dare to listen. Amidst the eerie silence, a lone figure wanders, seeking solace in the haunting beauty of nature's embrace."
   },
   {
     "id": 2,
     "title": "The Last Letter",
     "author": "Harper Lee",
-    "price": 10.50,
     "classification": "Stories",
     "coverbook": "assets/images/TheLastLetter.png",
-    "pages": [
-      "In the quiet town of Echoes, where memories linger in every corner, whispers of the past intertwine with the present.",
-      "Among the familiar streets, echoes of lost love and forgotten dreams resonate, leaving traces of longing in their wake.",
-      "As day fades into night, the echoes grow louder, a haunting reminder of lives intertwined and destinies unfulfilled."
-    ]
+    "pages": "In the quiet town of Echoes, where memories linger in every corner, whispers of the past intertwine with the present. Among the familiar streets, echoes of lost love and forgotten dreams resonate, leaving traces of longing in their wake. As day fades into night, the echoes grow louder, a haunting reminder of lives intertwined and destinies unfulfilled."
   },
   {
     "id": 3,
     "title": "The Trojan War",
     "author": "George Orwell",
-    "price": 9.99,
     "classification": "Historical",
     "coverbook": "assets/images/TheTrojanWar.png",
-    "pages": [
-      "Beneath the soft glow of the moon, secrets stir in the darkness, hidden from prying eyes.",
-      "In the stillness of the night, whispers of forbidden desires and clandestine affairs drift through the air, shrouded in mystery.",
-      "As the moon reaches its zenith, secrets once buried rise to the surface, illuminating the shadows with their silver light."
-    ]
+    "pages": "Beneath the soft glow of the moon, secrets stir in the darkness, hidden from prying eyes. In the stillness of the night, whispers of forbidden desires and clandestine affairs drift through the air, shrouded in mystery. As the moon reaches its zenith, secrets once buried rise to the surface, illuminating the shadows with their silver light."
   },
   {
     "id": 4,
     "title": "Hour of hope",
     "author": "Jane Austen",
-    "price": 8.95,
     "classification": "Fiction",
     "coverbook": "assets/images/HourOfHope.png",
-    "pages": [
-      "In the quaint village of Longbourne, where tea flows freely and gossip reigns supreme, lives intertwine in unexpected ways.",
-      "Among the rolling hills and charming cottages, secrets are shared over cups of steaming tea, binding friends and foes alike.",
-      "As the sun sets on another day, the villagers gather, their laughter mingling with the clink of teacups, a reminder of the bonds that unite them."
-    ]
+    "pages": "In the quaint village of Longbourne, where tea flows freely and gossip reigns supreme, lives intertwine in unexpected ways. Among the rolling hills and charming cottages, secrets are shared over cups of steaming tea, binding friends and foes alike. As the sun sets on another day, the villagers gather, their laughter mingling with the clink of teacups, a reminder of the bonds that unite them."
   },
   {
     "id": 5,
-    "title": "Great Wall China.png",
+    "title": "The Great Wall Of China",
     "author": "Salinger",
-    "price": 11.25,
     "classification": "Historical",
     "coverbook": "assets/images/GreatWallOfChina.png",
-    "pages": [
-      "In the bustling streets of New York City, where time never stands still, lives intersect in unexpected ways.",
-      "Among the towering skyscrapers and crowded sidewalks, dreams are born and shattered, lost and found.",
-      "As the city lights flicker to life, a sense of nostalgia washes over its inhabitants, a longing for a time that once was and can never be again."
-    ]
+    "pages": "In the bustling streets of New York City, where time never stands still, lives intersect in unexpected ways. Among the towering skyscrapers and crowded sidewalks, dreams are born and shattered, lost and found. As the city lights flicker to life, a sense of nostalgia washes over its inhabitants, a longing for a time that once was and can never be again."
   },
   {
     "id": 6,
     "title": "The Hidden Path",
     "author": "Rowling",
-    "price": 14.99,
     "classification": "Fiction",
     "coverbook": "assets/images/TheHiddenPath.png",
-    "pages": [
-      "In the magical realm of Silverleaf, where wizards and witches roam, a stone of great power lies hidden, waiting to be found.",
-      "Among the enchanted forests and shimmering lakes, legends of old come to life, weaving tales of bravery and betrayal.",
-      "As darkness descends upon the land, the fate of Silverleaf hangs in the balance, its destiny tied to the one who holds the key to its salvation."
-    ]
+    "pages": "In the magical realm of Silverleaf, where wizards and witches roam, a stone of great power lies hidden, waiting to be found. Among the enchanted forests and shimmering lakes, legends of old come to life, weaving tales of bravery and betrayal. As darkness descends upon the land, the fate of Silverleaf hangs in the balance, its destiny tied to the one who holds the key to its salvation."
   },
   {
     "id": 7,
     "title": "Dragon Samurai",
     "author": "Takahashi",
-    "price": 13.75,
     "classification": "Stories",
     "coverbook": "assets/images/DragonSamuraiCover.png",
-    "pages": [
-      "In feudal Japan, where honor is everything and duty reigns supreme, samurai warriors stand as guardians of tradition and legacy.",
-      "Among the cherry blossoms and bamboo groves, battles are fought and alliances forged, shaping the course of history.",
-      "As the sun sets on the samurai era, a new dawn rises, ushering in an era of change and uncertainty, where the old ways clash with the new."
-    ]
+    "pages": "In feudal Japan, where honor is everything and duty reigns supreme, samurai warriors stand as guardians of tradition and legacy. Among the cherry blossoms and bamboo groves, battles are fought and alliances forged, shaping the course of history. As the sun sets on the samurai era, a new dawn rises, ushering in an era of change and uncertainty, where the old ways clash with the new."
   },
   {
     "id": 8,
     "title": "Era Of Alchemist",
     "author": "Paulo Coelho",
-    "price": 11.00,
     "classification": "Fiction",
     "coverbook": "assets/images/EraOfAlchemist.png",
-    "pages": [
-      "In a world where magic and science coexist, alchemists seek to unlock the mysteries of the universe, blending the old with the new.",
-      "Among the ancient ruins and forgotten temples, secrets of untold power lie waiting to be discovered, their whispers echoing through the ages.",
-      "As the alchemist's journey unfolds, a path of enlightenment emerges, leading them ever closer to the truth they seek."
-    ]
+    "pages": "In a world where magic and science coexist, alchemists seek to unlock the mysteries of the universe, blending the old with the new. Among the ancient ruins and forgotten temples, secrets of untold power lie waiting to be discovered, their whispers echoing through the ages. As the alchemist's journey unfolds, a path of enlightenment emerges, leading them ever closer to the truth they seek."
   },
   {
     "id": 9,
     "title": "Sands of Destiny",
     "author": "Eriksson",
-    "price": 20.50,
     "classification": "Historical",
     "coverbook": "assets/images/SandsOfDestiny.png",
-    "pages": [
-      "In the shadow of the ancient castle, where legends of knights and dragons abound, a kingdom teeters on the brink of chaos.",
-      "Among the crumbling walls and overgrown courtyards, whispers of treachery and betrayal echo, threatening to tear the realm apart.",
-      "As darkness descends upon the land, a lone figure emerges from the shadows, a beacon of hope in a world consumed by darkness."
-    ]
+    "pages": "In the shadow of the ancient castle, where legends of knights and dragons abound, a kingdom teeters on the brink of chaos. Among the crumbling walls and overgrown courtyards, whispers of treachery and betrayal echo, threatening to tear the realm apart. As darkness descends upon the land, a lone figure emerges from the shadows, a beacon of hope in a world consumed by darkness."
   }
 ]
